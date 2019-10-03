@@ -21,10 +21,10 @@ theme = "graphite"
 # ------------------------------------------------------------------------------
 
 # Site title - how this is displayed depends on your theme.
-title = "Site Title"
+title = "Ryan's Test Site"
 
 # Site tagline - how this is displayed depends on your theme.
-tagline = "Just another Ivy site."
+tagline = "Testing static site generation with Ivy"
 
 
 # ------------------------------------------------------------------------------
